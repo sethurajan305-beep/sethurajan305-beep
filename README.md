@@ -38,8 +38,8 @@ Git • GitHub • VS Code
 
 ## 🎯 Projects  
 
-- 🎓 Student Improvement Tracker  
-- 🧠 AI Mental Wellness Platform  
+- 🎓 Velocity Dashboard 
+- 🧠 AI-INTEGRATED-HOSPITAL-MANAGEMENT 
 
 ---
 
