@@ -16,7 +16,7 @@ I focus on creating simple, useful, and practical applications.
 ## 🚀 Skills  
 
 - 💻 Java, JavaScript, C, PHP  
-- 🌐 HTML, CSS, React  
+- 🌐 HTML, CSS, JS
 - 🗄️ MySQL  
 - 🎨 Figma, Canva  
 
