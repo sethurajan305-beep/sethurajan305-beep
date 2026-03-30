@@ -1,8 +1,8 @@
-# 👋 Hi, I'm Sethu Rajan
+#  Hi, I'm Sethu Rajan
 
-🎓 Electronics & Communication Engineering Student  
-📍 Tamil Nadu, India  
-📅 Graduating in 2026  
+ Electronics & Communication Engineering 
+ Tamil Nadu, India  
+  
 
 ---
 
@@ -13,22 +13,22 @@ I focus on creating simple, useful, and practical applications.
 
 ---
 
-## 🚀 Skills  
+##  Skills  
 
-- 💻 Java, JavaScript, C, PHP  
-- 🌐 HTML, CSS, JS
-- 🗄️ MySQL  
-- 🎨 Figma, Canva  
+- Java, JavaScript, C, PHP,Python  
+- HTML, CSS, JS
+- MySQL  
+- Figma, Canva 
 
 ---
 
-## 🛠️ Tools  
+##  Tools  
 
 Git • GitHub • VS Code  
 
 ---
 
-## 📊 GitHub Stats  
+##  GitHub Stats  
 
 ![Sethu's GitHub stats](https://github-readme-stats.vercel.app/api?username=sethurajan305-beep&show_icons=true&theme=default)
 
@@ -36,26 +36,27 @@ Git • GitHub • VS Code
 
 ---
 
-## 🎯 Projects  
+##  Projects  
 
-- 🎓 Velocity Dashboard 
-- 🧠 AI-INTEGRATED-HOSPITAL-MANAGEMENT 
+-  Velocity Dashboard 
+-  AI-INTEGRATED-HOSPITAL-MANAGEMENT
+
 
 ---
 
-## 🌱 Currently Learning  
+##  Currently Learning  
 
-- Advanced Java  
+- AI 
 - System Design  
 - UI/UX  
 
 ---
 
-## 📫 Contact  
+## Contact  
 
-- 📧 sethurajan305@gmail.com  
-- 🔗 LinkedIn: (add your link)  
-- 🌐 Portfolio: (add your link)  
+- sethurajan305@gmail.com  
+- LinkedIn:  
+-  
 
 ---
 
